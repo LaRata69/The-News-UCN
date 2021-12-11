@@ -1,4 +1,4 @@
-package cl.ucn.disc.dsm.rcampillay.thenews;
+package cl.ucn.disc.dsm.rcampillay.thenews.services;
 
 
 import org.junit.jupiter.api.Assertions;
