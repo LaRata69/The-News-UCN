@@ -1,4 +1,4 @@
-package cl.ucn.disc.dsm.rcampillay.thenews;
+package cl.ucn.disc.dsm.rcampillay.thenews.services;
 
 import com.github.javafaker.Faker;
 
@@ -7,6 +7,9 @@ import org.threeten.bp.ZonedDateTime;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import cl.ucn.disc.dsm.rcampillay.thenews.model.News;
+import cl.ucn.disc.dsm.rcampillay.thenews.services.Contracts;
 
 /**
  * Contract Implementation of news with Faker.

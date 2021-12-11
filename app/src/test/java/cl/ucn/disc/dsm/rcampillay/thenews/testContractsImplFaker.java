@@ -6,6 +6,10 @@ import org.junit.jupiter.api.Test;
 
 import java.util.List;
 
+import cl.ucn.disc.dsm.rcampillay.thenews.model.News;
+import cl.ucn.disc.dsm.rcampillay.thenews.services.Contracts;
+import cl.ucn.disc.dsm.rcampillay.thenews.services.ContractsImplFaker;
+
 /**
  * @Author Ronald Campillay-Pizarro
  */

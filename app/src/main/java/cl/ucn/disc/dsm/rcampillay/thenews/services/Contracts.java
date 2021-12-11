@@ -1,6 +1,8 @@
-package cl.ucn.disc.dsm.rcampillay.thenews;
+package cl.ucn.disc.dsm.rcampillay.thenews.services;
 
 import java.util.List;
+
+import cl.ucn.disc.dsm.rcampillay.thenews.model.News;
 
 /**
 The Contracts of the news project

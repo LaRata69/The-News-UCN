@@ -6,19 +6,15 @@ An android project who shows a list of News.
 
 ```puml
 @startuml
-package cl.ucn.disc.dsm.news{
+package externals* #ffcccc {
 
     package org.threeten.bp{
         class ZonedDateTime{  
                 
         }        
         class ZoneId {
-         '''
-         
-        }
-        
-       
-          
+         '''         
+        }          
     }
     
     package com.github.javafaker{
@@ -30,8 +26,11 @@ package cl.ucn.disc.dsm.news{
     package net.opennft.hashing{
         class LongHashFunction {
         }
+               
     }
+}
     
+    package cl.ucn.disc.dsm.news {
     
     package model #ccffcc {
         
@@ -79,6 +78,7 @@ package cl.ucn.disc.dsm.news{
     
 
 }
+
 @enduml
 
 ```

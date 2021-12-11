@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 import org.threeten.bp.ZoneId;
 import org.threeten.bp.ZonedDateTime;
 
+import cl.ucn.disc.dsm.rcampillay.thenews.model.News;
 import lombok.extern.slf4j.Slf4j;
 
 /**
